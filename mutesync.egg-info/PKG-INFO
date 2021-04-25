@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: mutesync
+Version: 0.0.1
+Summary: Asynchronous library to control mutesync devices.
+Home-page: https://github.com/currentoor/pymutesync
+Author: Karanbir Toor
+Author-email: support@mutesync.com
+License: Apache License 2.0
+Description: # pymutesync
+        
+Platform: any
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
