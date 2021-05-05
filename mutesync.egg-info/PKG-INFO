@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: mutesync
-Version: 0.0.1
+Version: 0.0.2
 Summary: Asynchronous library to control mutesync devices.
 Home-page: https://github.com/currentoor/pymutesync
 Author: Karanbir Toor
