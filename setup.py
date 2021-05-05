@@ -4,7 +4,7 @@ long_description = open("README.md").read()
 
 setup(
     name="mutesync",
-    version="0.0.1",
+    version="0.0.2",
     license="Apache License 2.0",
     url="https://github.com/currentoor/pymutesync",
     author="Karanbir Toor",
