@@ -15,7 +15,7 @@ setup(
     packages=["mutesync"],
     zip_safe=True,
     platforms="any",
-    install_requires=list(val.strip() for val in open("requirements.txt")),
+    install_requires=["aiohttp", "async-timeout"],
     classifiers=[
         "Intended Audience :: Developers",
         "Operating System :: OS Independent",
